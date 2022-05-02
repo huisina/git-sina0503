@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("master merge branch");
         System.out.println("master merge branch");
+        System.out.println("hotfix merge branch");
     }
 }
