@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("master merge branch");
         System.out.println("master merge branch");
         System.out.println("hotfix merge branch");
+        System.out.println("change in web");
     }
 }
