@@ -8,7 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("hot-fix new2 branch");
-        System.out.println("hot-fix new two branch");
+        System.out.println("hot-fix merge branch");
     }
 }
