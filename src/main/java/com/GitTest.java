@@ -15,5 +15,7 @@ public class GitTest {
         System.out.println("change in idea");
         System.out.println("push with ssh");
         System.out.println("push with gitee-https");
+        System.out.println("test updating...");
+        
     }
 }
